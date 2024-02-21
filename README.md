@@ -1,0 +1,3 @@
+Minimal example of modules from C++20 on `g++`. Intended for a Linux environment.
+
+Taken largely from the answer to [https://stackoverflow.com/questions/69452740/shared-libraries-and-c20-modules](https://stackoverflow.com/questions/69452740/shared-libraries-and-c20-modules). This doesn't take into account an idea project setup, so I'm going to explore how to nicely redirect built libs to a `./lib` folder. May use something like [https://stackoverflow.com/questions/68451442/how-to-specify-gcm-cache-location-using-g-cmake](https://stackoverflow.com/questions/68451442/how-to-specify-gcm-cache-location-using-g-cmake) but would be nice to figure out the "proper" way to do this.
