@@ -2,6 +2,8 @@ export module TuckTuck;
 
 import <iostream>;
 
+// yes this example is dumb and does nothing,
+// that is the point of examples
 namespace TuckTuck 
 {
     int internal_function() 
